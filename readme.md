@@ -1,0 +1,1 @@
+I was reading "Hands on Machine Learning with Scikit Learn and Tensorflow" (a very good book, if I may add), there was the example on Model Based Learning, the author asked; Suppose you want to know if money makes people happy, and it got me thinking, how would I go about answering this? I put down the book without further reading and started searching
